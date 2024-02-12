@@ -1,4 +1,4 @@
-### Hi there!👋 My name is Evgeniy, and I'm beginner qa-engineer.
+### Hi there!👋 My name is Evgeniy, and I'm beginner Qa-engineer.
 ***
 
 <!--
