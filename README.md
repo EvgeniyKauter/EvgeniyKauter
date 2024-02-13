@@ -11,4 +11,4 @@ Also, I've had the experience in development on JavaScript
 
 ***My contact***
 + 📧email: evgeniykauter@mail.ru
-+ 📲telegramm: https://t.me/kauterevgeniy
++ 📲telegram: https://t.me/kauterevgeniy
