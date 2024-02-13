@@ -2,7 +2,8 @@
 ***
 Currently, I'm open to collaborating and job offers! 🤝 Look at [My CV](https://drive.google.com/file/d/1ejreqZYUT7EjpM1kGXlqSdmsONB3dwzp/view?usp=sharing)
 
-***My QA Projects***
+
+***My QA Projects:***
 + [Online store](https://github.com/EvgeniyKauter/QA-Project-Shop) - testing online store
 + [Codebattle](https://github.com/EvgeniyKauter/QA-Project-Codebattle) - testing opensourse project [online-game](https://codebattle.hexlet.io)
 
