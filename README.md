@@ -9,6 +9,6 @@ Currently, I'm open to collaborating and job offers! 🤝 Look at [My CV](https:
 Also, I've had the experience in <u>development</u> on *JavaScript*
 + [Brain Games](https://github.com/EvgeniyKauter/Development-Project-Brain-Games) - СLI tool to play brain-games in bash.
 
-***My contact***
+***My contact:***
 + 📧email: evgeniykauter@mail.ru
 + 📲telegram: https://t.me/kauterevgeniy
