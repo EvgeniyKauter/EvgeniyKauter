@@ -1,6 +1,6 @@
 ### Hi there!👋 My name is Evgeniy, and I'm beginner Qa-engineer.
 ***
-Currently, I'm open to collaborating and job offers! 🤝 Look at [My CV](https://drive.google.com/file/d/1ejreqZYUT7EjpM1kGXlqSdmsONB3dwzp/view?usp=sharing)
+Currently, I'm open to collaborating and job offers! 🤝 Look at [My CV](https://drive.google.com/drive/my-drive?ths=true)
 
 💻***My QA Projects:***
 + [Online store](https://github.com/EvgeniyKauter/QA-Project-Shop) - testing online store
